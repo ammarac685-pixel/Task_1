@@ -2,5 +2,5 @@
 Ammara Arif
 ammarac685@gmail.com 
 University of narowal
-semester : 5th
+semester : 6th
 Machine learning 
