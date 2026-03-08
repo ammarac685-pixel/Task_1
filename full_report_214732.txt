@@ -1,0 +1,17 @@
+FULL STUDENT REPORT
+Generated : 2026-03-08 21:47:32
+Total     : 9 students
+=======================================================
+
+121 | Haseeb Ahmad    | Marks:  82 | PASS | Fine: $0
+122 | Muhammad Arslan | Marks:  45 | FAIL | Fine: $15
+123 | Muhammad Umair  | Marks:  91 | PASS | Fine: $0
+124 | Abdullah        | Marks:  38 | FAIL | Fine: $35
+125 | Hassan ALi      | Marks:  55 | PASS | Fine: $10
+126 | Talal           | Marks:  20 | FAIL | Fine: $0
+127 | Muzzamil        | Marks:  77 | PASS | Fine: $5
+129 | Sadia Tariq     | Marks:  61 | PASS | Fine: $0
+130 | Fatima          | Marks:  49 | FAIL | Fine: $25
+
+=======================================================
+Total fines collected: $90
